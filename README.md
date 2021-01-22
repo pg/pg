@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Python web development for my WWT client work and MicroPython for hobby embedded systems work, most of my work lately is being done in private repos
+- 😄 Pronouns: he/him
+
 <!--
 **pg/pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
