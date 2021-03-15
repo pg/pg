@@ -8,8 +8,8 @@
 [<img align="left" alt="petergebhard.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Peter Gebhard | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
 
-[website]: https://www.antonbabenko.com
-[linkedin]: https://linkedin.com/in/antonbabenko
+[website]: https://www.petergebhard.com
+[linkedin]: https://linkedin.com/in/pgebhard
 
 <!--
 - 🔭 I’m currently working on ...
