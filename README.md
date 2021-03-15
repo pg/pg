@@ -22,4 +22,5 @@
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=pg)
 ![](https://hit.yhype.me/github/profile?user_id=28985)
