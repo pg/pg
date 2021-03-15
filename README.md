@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python web development for my WWT client work and MicroPython for hobby embedded systems work, much of my recent work has been in private repos
+- 🔭 I’m currently working on Python web development for a [WWT](https://www.wwt.com) client and [MicroPython](https://micropython.org/) for hobby embedded systems work. Much of my recent work takes place in private repos.
 - 😄 Pronouns: he/him
 
+### Connect with me
+
+[<img align="left" alt="petergebhard.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Peter Gebhard | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+
+[website]: https://www.antonbabenko.com
+[linkedin]: https://linkedin.com/in/antonbabenko
+
 <!--
-**pg/pg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=28985)
