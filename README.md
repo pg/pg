@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-- 🔭 Lately, I have been working on Python web development for a [WWT](https://www.wwt.com) client and [MicroPython](https://micropython.org/) for hobby embedded systems work. In the recent past, I have done some work in Java and Kotlin. My recent work takes place in private repos.
+- 🔭 Lately, I have been building a distributed data analysis engine with services written in Python, .NET, and C++ for a [WWT](https://www.wwt.com) client, and I have been tinkering with [FastAPI](https://fastapi.tiangolo.com) and [MicroPython](https://micropython.org) for hobby embedded systems work. In the recent past, I developed web, desktop, and mobile applications using Java and Kotlin. My recent client work takes place in private repos, however most of my hobby work gets pushed here.
+- 🌱 I’m currently learning [Go](https://golang.org).
+- 👯 I’m looking to collaborate on any hobby embedded systems projects.
+- 💬 Ask me about anything!
+- 📫 How to reach me: check my [website](https://petergebhard.com) or [LinkedIn](https://linkedin.com/in/pgebhard)
 - 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I've done backpacking treks in 6 of the 7 continents. A three-week trek in Nepal up to and around Everest Base Camp was the highlight so far.
 
 ### Connect with me
 
