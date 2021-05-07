@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently building a distributed data analysis engine with services written in Python, .NET, and C++ for a [WWT](https://www.wwt.com) client, and I tinker with [FastAPI](https://fastapi.tiangolo.com) and [MicroPython](https://micropython.org) on hobby embedded systems projects in my free time. In the recent past, I developed web, desktop, and mobile applications using Java and Kotlin. My client work takes place in private repos, but most of my hobby work gets pushed here.
+- 🔭 I am currently building a distributed data analysis engine with services written in Python, .NET, and C++ for a [WWT](https://www.wwt.com) client, and I tinker with [FastAPI](https://fastapi.tiangolo.com) and [MicroPython](https://micropython.org) on hobby embedded systems projects in my spare time. In the recent past, I developed web, desktop, and mobile applications using Java and Kotlin. My client work takes place in private repos, but most of my hobby work gets pushed here.
 - 🌱 I’m currently learning [Go](https://golang.org).
 - 👯 I would love to collaborate on hobby embedded systems projects.
 - 💬 Ask me about anything!
