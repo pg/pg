@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python web development for a [WWT](https://www.wwt.com) client and [MicroPython](https://micropython.org/) for hobby embedded systems work. Much of my recent work takes place in private repos.
-- 😄 Pronouns: he/him
+- 🔭 Lately, I have been working on Python web development for a [WWT](https://www.wwt.com) client and [MicroPython](https://micropython.org/) for hobby embedded systems work. In the recent past, I have done some work in Java and Kotlin. My recent work takes place in private repos.
+- 😄 Pronouns: he/him/his
 
 ### Connect with me
 
