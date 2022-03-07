@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Go](https://golang.org).
 - 👯 I would love to collaborate on embedded systems projects.
 - 💬 Ask me about anything!
-- 📫 How to reach me: check my [website](https://petergebhard.com) or [LinkedIn](https://linkedin.com/in/pgebhard)
+- 📫 How to reach me: check my [website](https://petergebhard.com), [Keybase](https://keybase.io/pgeb), or [LinkedIn](https://linkedin.com/in/pgebhard)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have trekked through 6 of the 7 continents. A three-week trek in Nepal up to and around Everest Base Camp was the highlight so far.
 
